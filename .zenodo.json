@@ -1,0 +1,21 @@
+{
+  "title": "Explainable and Uncertainty-Aware Machine Learning for 3-Year Colorectal Cancer-Specific Mortality Risk Classification",
+  "upload_type": "software",
+  "description": "Analysis code and computational documentation for a SEER-based temporal validation study of 3-year colorectal cancer-specific mortality risk classification. The restricted/source SEER patient-level dataset is not included.",
+  "creators": [
+    {
+      "name": "Nirob, Saem Mohammad"
+    }
+  ],
+  "license": "mit",
+  "version": "1.0.0",
+  "keywords": [
+    "colorectal cancer",
+    "machine learning",
+    "survival analysis",
+    "SEER",
+    "mortality prediction",
+    "model calibration",
+    "SHAP"
+  ]
+}

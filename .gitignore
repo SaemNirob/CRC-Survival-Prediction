@@ -1,0 +1,27 @@
+# Local SEER data (never commit restricted patient-level data)
+NEW_CRC_2018-2020.txt
+data/*.txt
+data/*.csv
+data/*.tsv
+data/*.xlsx
+data/*.parquet
+
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Generated outputs and large intermediate files
+results/*
+!results/tables/
+!results/figures/
+!results/tables/.gitkeep
+!results/figures/.gitkeep
+*.joblib
+*.pkl
+*.pickle
+*.model
+*.cbm

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and, when available, the associated research article."
+title: "Explainable and Uncertainty-Aware Machine Learning for 3-Year Colorectal Cancer-Specific Mortality Risk Classification"
+type: software
+authors:
+  - family-names: "Nirob"
+    given-names: "Saem Mohammad"
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
